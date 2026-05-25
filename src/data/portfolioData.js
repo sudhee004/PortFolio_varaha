@@ -37,7 +37,7 @@ export const aboutData = {
   ],
   highlights: [
     "Completed full-stack internship at Tap Academy (TAP EdTech Pvt Ltd), Bengaluru",
-    "Hands-on with Java, Advanced Java, MySQL, React.js, Node.js, and REST APIs",
+    "Hands-on with Python, Java, Advanced Java, MySQL, React.js, Node.js, and REST APIs",
     "Interested in climate-tech innovation, blockchain transparency, and scalable systems"
   ]
 };
